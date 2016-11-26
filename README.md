@@ -1,6 +1,9 @@
 # fys3110_exams
 repository of previous exams for easy download
 
+Exam:
+28.11.2016 kl 09:00 - 4t ordinær tid.: Fysikkbygningen Store fysiske lesesal (4. etasje. Ankomst via trapp og heis.) 
+
 The syllabus (relevant exam material (pensum)) is defined as all topics presented in the course lectures and in the homework problems. The lectures will follow the textbook (Griffiths) rather closely, and a list of chapters lectured upon will be presented on this page before the exams. For a tentative list, see the time schedule page.
 
 List of material treated in lectures and problems:
